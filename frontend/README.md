@@ -2,7 +2,6 @@
 
 ThinkPad is a **full-stack MERN (MongoDB, Express, React, Node.js)** note-taking app that allows users to **Create, Read, Update, and Delete** notes with titles and descriptions. Designed for absolute beginners, it also introduces real-world concepts like **rate limiting using Upstash Redis**, a **RESTful API**, **responsive design**, and **deployment workflows**.
 
----
 
 ## 🚀 Features
 
@@ -15,13 +14,12 @@ ThinkPad is a **full-stack MERN (MongoDB, Express, React, Node.js)** note-taking
 - 📦 Deployment Guide included
 - 📚 Beginner-friendly codebase with comments and examples
 
----
+
 
 ## 📸 Demo
 
 > 🚧 Live demo coming soon — or [follow the deployment guide](#-deployment) to host it yourself!
 
----
 
 ## 🏗️ Tech Stack
 
@@ -31,7 +29,6 @@ ThinkPad is a **full-stack MERN (MongoDB, Express, React, Node.js)** note-taking
 | Tailwind  | Express   | Mongoose | Upstash Redis |
 | Axios     | CORS      | Dotenv   | Vercel/Render |
 
----
 
 ## 📂 Project Structure
 
