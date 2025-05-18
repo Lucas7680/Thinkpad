@@ -9,21 +9,15 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 // const __dirname = path.resolve();
-const allowedOrigins =
-  process.env.NODE_ENV === "production"
-    ? ["https://thinkpad.vercel.app"] // your final deployed frontend URL
-    : [
-        "http://localhost:5173",
-        "https://thinkpad-git-main-daniyal-ahmeds-projects-c363bc8e.vercel.app/",
-      ];
 
 app.use(
   cors({
-    origin: allowedOrigins,
-    credentials: true, // if needed for cookies/auth headers
+    origin: [
+      "http://localhost:5173",
+      "https://thinkpad-git-main-daniyal-ahmeds-projects-c363bc8e.vercel.app/",
+    ],
   })
 );
-
 
 app.use(express.json());
 app.use(rateLimiter);
