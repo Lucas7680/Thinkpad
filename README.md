@@ -64,3 +64,6 @@ Thinkpad/
 
 ---
 *Maintained with the assistance of AI.*
+
+## Acknowledgements
+* Code optimization and debugging assistance provided by [Claude AI](https://www.anthropic.com/claude).
